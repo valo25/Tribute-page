@@ -1,0 +1,34 @@
+body{
+    margin: 65px;
+     background-color:#EBDF9E;
+  }
+  .container-fluid{
+    background-color: none;
+  }
+  .header{
+    text-align: center;
+  }
+  #imagetext{
+    background-color: none;
+  }
+  .main{
+    max-width: 665px;
+      margin: 0 auto;
+  }
+  li span{
+    font-weight: bold;
+  }
+  .footer{
+    text-align:center;
+  }
+  #codedby{
+    text-align:center;
+    background-color: none;
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
